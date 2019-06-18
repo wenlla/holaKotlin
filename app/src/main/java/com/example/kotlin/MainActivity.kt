@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun total(){
 
-        var a = 8
+        var a = 10
         var b = 2
 
         Log.i("a+b=","${plus(a,b)}")
