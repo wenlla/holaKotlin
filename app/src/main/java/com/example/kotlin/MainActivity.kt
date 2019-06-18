@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(toolbar)
-        mainSignupBtn
+        mainEmailTxv.length()
         total()
 
         var i = {x:Int,y:Int -> x+y}

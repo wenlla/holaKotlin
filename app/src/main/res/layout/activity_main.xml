@@ -30,9 +30,13 @@
             android:layout_gravity="bottom|end"
             android:layout_margin="@dimen/fab_margin"
             app:srcCompat="@android:drawable/ic_dialog_email"/>
-    <Button
-            android:text="Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" android:id="@+id/mainSignupBtn"/>
+    <TextView
+            android:text="ingreso el texto!!!!!"
+            android:layout_width="225dp"
+            android:layout_height="30dp"
+            android:layout_gravity="bottom"
+            android:layout_margin="@dimen/fab_margin"
+            android:id="@+id/mainEmailTxv"/>
+
 
 </android.support.design.widget.CoordinatorLayout>
